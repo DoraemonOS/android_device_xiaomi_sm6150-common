@@ -1,0 +1,20 @@
+[
+ {
+   "repository"  : "android_hardware_xiaomi",
+   "target_path" : "hardware/xiaomi",
+   "remote"      : "Dora",
+   "branch"      : "12"
+ },
+ {
+   "repository"  : "android_device_xiaomi_sm6150-extras",
+   "target_path" : "device/xiaomi/sm6150-extras",
+   "remote"      : "Dora",
+   "branch"      : "12"
+ },
+ {
+   "repository"  : "android_vendor_xiaomi_sm6150-common",
+   "target_path" : "vendor/xiaomi/sm6150-common",
+   "remote"      : "Dora",
+   "branch"      : "12"
+ }
+]
